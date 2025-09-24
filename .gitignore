@@ -1,0 +1,19 @@
+# Binaries
+identicon
+identicon.exe
+
+# Generated images (examples)
+*.png
+
+# Go build cache
+.cache/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
